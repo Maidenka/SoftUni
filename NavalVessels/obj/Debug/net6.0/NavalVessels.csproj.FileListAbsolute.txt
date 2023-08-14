@@ -1,0 +1,15 @@
+C:\Users\i4o_m\OneDrive\Desktop\SoftUni OOP Exam Prep\C# OOP Retake Exam - 20 Dec 2021\NavalVessels\bin\Debug\net6.0\NavalVessels.exe
+C:\Users\i4o_m\OneDrive\Desktop\SoftUni OOP Exam Prep\C# OOP Retake Exam - 20 Dec 2021\NavalVessels\bin\Debug\net6.0\NavalVessels.deps.json
+C:\Users\i4o_m\OneDrive\Desktop\SoftUni OOP Exam Prep\C# OOP Retake Exam - 20 Dec 2021\NavalVessels\bin\Debug\net6.0\NavalVessels.runtimeconfig.json
+C:\Users\i4o_m\OneDrive\Desktop\SoftUni OOP Exam Prep\C# OOP Retake Exam - 20 Dec 2021\NavalVessels\bin\Debug\net6.0\NavalVessels.dll
+C:\Users\i4o_m\OneDrive\Desktop\SoftUni OOP Exam Prep\C# OOP Retake Exam - 20 Dec 2021\NavalVessels\bin\Debug\net6.0\NavalVessels.pdb
+C:\Users\i4o_m\OneDrive\Desktop\SoftUni OOP Exam Prep\C# OOP Retake Exam - 20 Dec 2021\NavalVessels\obj\Debug\net6.0\NavalVessels.csproj.AssemblyReference.cache
+C:\Users\i4o_m\OneDrive\Desktop\SoftUni OOP Exam Prep\C# OOP Retake Exam - 20 Dec 2021\NavalVessels\obj\Debug\net6.0\NavalVessels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i4o_m\OneDrive\Desktop\SoftUni OOP Exam Prep\C# OOP Retake Exam - 20 Dec 2021\NavalVessels\obj\Debug\net6.0\NavalVessels.AssemblyInfoInputs.cache
+C:\Users\i4o_m\OneDrive\Desktop\SoftUni OOP Exam Prep\C# OOP Retake Exam - 20 Dec 2021\NavalVessels\obj\Debug\net6.0\NavalVessels.AssemblyInfo.cs
+C:\Users\i4o_m\OneDrive\Desktop\SoftUni OOP Exam Prep\C# OOP Retake Exam - 20 Dec 2021\NavalVessels\obj\Debug\net6.0\NavalVessels.csproj.CoreCompileInputs.cache
+C:\Users\i4o_m\OneDrive\Desktop\SoftUni OOP Exam Prep\C# OOP Retake Exam - 20 Dec 2021\NavalVessels\obj\Debug\net6.0\NavalVessels.dll
+C:\Users\i4o_m\OneDrive\Desktop\SoftUni OOP Exam Prep\C# OOP Retake Exam - 20 Dec 2021\NavalVessels\obj\Debug\net6.0\refint\NavalVessels.dll
+C:\Users\i4o_m\OneDrive\Desktop\SoftUni OOP Exam Prep\C# OOP Retake Exam - 20 Dec 2021\NavalVessels\obj\Debug\net6.0\NavalVessels.pdb
+C:\Users\i4o_m\OneDrive\Desktop\SoftUni OOP Exam Prep\C# OOP Retake Exam - 20 Dec 2021\NavalVessels\obj\Debug\net6.0\NavalVessels.genruntimeconfig.cache
+C:\Users\i4o_m\OneDrive\Desktop\SoftUni OOP Exam Prep\C# OOP Retake Exam - 20 Dec 2021\NavalVessels\obj\Debug\net6.0\ref\NavalVessels.dll
